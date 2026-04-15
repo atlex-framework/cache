@@ -11,8 +11,22 @@
   "keywords": [
     "atlex",
     "cache",
-    "typescript",
-    "redis"
+    "caching",
+    "redis-cache",
+    "file-cache",
+    "in-memory-cache",
+    "memory-cache",
+    "cache-tags",
+    "cache-lock",
+    "distributed-cache",
+    "distributed-lock",
+    "redis",
+    "ioredis",
+    "laravel-cache",
+    "laravel-alternative",
+    "nodejs",
+    "javascript",
+    "typescript"
   ],
   "engines": {
     "node": ">=20"

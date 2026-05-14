@@ -1,6 +1,6 @@
 {
   "name": "@atlex/cache",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Cache drivers and tagging for Atlex",
   "type": "module",
   "license": "MIT",

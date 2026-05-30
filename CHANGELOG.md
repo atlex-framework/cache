@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.11
+
+### Patch Changes
+
+- de7b9ba: Fix cli
+- Updated dependencies [de7b9ba]
+  - @atlex/core@0.1.11
+
 ## 0.1.10
 
 ### Patch Changes

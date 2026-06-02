@@ -1,6 +1,6 @@
 {
   "name": "@atlex/cache",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Cache drivers and tagging for Atlex",
   "type": "module",
   "license": "MIT",
@@ -73,7 +73,7 @@
     }
   },
   "peerDependencies": {
-    "@atlex/core": "workspace:>=0.2.0"
+    "@atlex/core": "workspace:>=0.2.1"
   },
   "dependencies": {
     "@atlex/core": "workspace:*",
